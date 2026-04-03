@@ -140,7 +140,7 @@ export default function PortfolioPage() {
               Email Me
             </a>
             <a
-              href="/Samiksha_Resume.pdf"
+              href="/Samiksha_Resume_.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-full border px-4 py-2 text-sm font-medium hover:bg-[rgba(26,26,26,0.04)]"
