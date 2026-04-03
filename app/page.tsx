@@ -19,6 +19,14 @@ const inter = Inter({
 
 const projects = [
   {
+    
+  title: "AI Video Maker",
+  description: "AI-powered video generator that converts images and audio into dynamic videos with automatic captions.",
+  image: "/projects/ai-video.png",
+  github: "https://github.com/poulsamiksha7/ai_video_maker.git",
+
+  },
+  {
     title: "E-Pharmacy Website",
     description:
       "Developed a full-stack e-commerce pharmacy platform with secure authentication, product catalog management, and end-to-end order processing.",
